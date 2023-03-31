@@ -1,6 +1,6 @@
 # JavaScript-Study
 
-#3.31일 Navbar 및 BootStrap : 서브메뉴 제작과 classList 다루기 / jquery 사용법 정리 
+## 3.31일 Navbar 및 BootStrap : 서브메뉴 제작과 classList 다루기 / jquery 사용법 정리 
 부트스트랩 사용 시 코드 복사 후 추가 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
 (<title></title> 밑에 위 코드 추가) 
